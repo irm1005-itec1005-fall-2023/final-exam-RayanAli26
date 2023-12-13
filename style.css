@@ -183,6 +183,91 @@ main .intro .main-text .secondary-btn {
   color: rgb(26, 26, 26);
 }
 
+main .showcase {
+  text-align: center;
+  margin: 3rem 0 3rem 0;
+}
+
+main .my-work ul {
+  list-style-type: none;
+}
+
+main .my-work .tut-3-text {
+  display: flex;
+  flex-direction: column;
+}
+
+main .my-work .tut-3-text li {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(147, 255, 255);
+  width: 80px;
+  padding: 1rem;
+  border-radius: 10px;
+  margin: 1rem;
+}
+
+main .my-work .tut-5-text {
+  display: flex;
+  flex-direction: column;
+}
+
+main .my-work .tut-5-text li {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(147, 255, 255);
+  width: 80px;
+  padding: 1rem;
+  border-radius: 10px;
+  margin: 1rem;
+}
+
+main .my-work .tut-7-text {
+  display: flex;
+  flex-direction: column;
+}
+
+main .my-work .tut-7-text li {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(147, 255, 255);
+  width: 80px;
+  padding: 1rem;
+  border-radius: 10px;
+  margin: 1rem;
+}
+
+main .my-work .tut-9-text {
+  display: flex;
+  flex-direction: column;
+}
+
+main .my-work .tut-9-text li {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(147, 255, 255);
+  width: 80px;
+  padding: 1rem;
+  border-radius: 10px;
+  margin: 1rem;
+}
+
+main .my-work .tut-3-text {
+  display: flex;
+  flex-direction: column;
+}
+
+main .my-work .tut-3-text li {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(147, 255, 255);
+  width: 80px;
+  padding: 1rem;
+  border-radius: 10px;
+  margin: 1rem;
+}
+
+
 main .contact {
   display: flex;
   flex-direction: column;
